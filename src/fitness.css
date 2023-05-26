@@ -1,0 +1,26 @@
+.sign-out-button {
+  background-color: #d6d6d1;
+  color: black;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  margin-left: 50px;
+}
+
+.sign-in-button {
+  background-color: #d6d6d1;
+  color: black;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  margin-left: 50px;
+}
+
+.login-container {
+  margin-top: -20px;
+  display: flex;
+  width: 250px;
+  align-items: center;
+}
